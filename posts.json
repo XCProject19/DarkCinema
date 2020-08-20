@@ -1,11 +1,9 @@
 {
   "allmovie" : [
-	  
-
 {
     "cover" : "https://1.bp.blogspot.com/-pFZhEUCuF6g/XzWLURbCE1I/AAAAAAAAZec/IIlEzdGGtsQqtQM_z4Iwyvfagzh3oeBegCLcBGAsYHQ/s1040/365days_cover.jpg",
     "date" : "2020",
-    "genre" : "Drama, Romance",
+    "gen" : "Drama, Romance",
     "image" : "https://1.bp.blogspot.com/-s1jstFonIco/XzWLvOF7X0I/AAAAAAAAZek/Tk0W0TCHw6cC8BwR0lcVKB8zzsc_B2RKQCLcBGAsYHQ/s1000/365days.jpg",
     "length" : "1:54:27",
     "qual" : "1080p",
@@ -18,7 +16,7 @@
   {
     "cover" : "https://1.bp.blogspot.com/-Zz18CrjqU6E/XzWR77EJ_kI/AAAAAAAAZew/hLI8Np2_fFsNGnIjyFRhpJxBJwgD5Vk5ACLcBGAsYHQ/s1920/Mutual%2BRelations%2B%25282015%2529_cover.jpg",
     "date" : "2015",
-    "genre" : "Adult, Asian, Comedy, Drama, Romance",
+    "gen" : "Adult, Asian, Comedy, Drama, Romance",
     "image" : "https://1.bp.blogspot.com/-pXl50z84cHM/XzWR8FUEbyI/AAAAAAAAZe0/kOjOxpfwvewTfVu12x7mGUuJosyqVMfBwCLcBGAsYHQ/s2048/Mutual%2BRelations%2B%25282015%2529.jpg",
     "length" : "1:29:27",
     "qual" : "1080p",
@@ -31,7 +29,7 @@
    {
     "cover" : "https://1.bp.blogspot.com/-so6yiJyU9_E/XzLwukLkGxI/AAAAAAAAY9w/CNnCqaRVOj8nEJNgjMYE5y9smSPwZx5hQCLcBGAsYHQ/s1296/lazy_cover.jpg",
     "date" : "2015",
-    "genre" : "Romance,18+",
+    "gen" : "Romance,18+",
     "image" : "https://1.bp.blogspot.com/-6xgl1mQI2Ik/XzLwupMK5II/AAAAAAAAY90/2HlBH-pOfWADq7nocfaV9J2cfl2WADKPQCLcBGAsYHQ/s1800/lazy.jpg",
     "length" : "1:39:26",
     "qual" : "1080p",

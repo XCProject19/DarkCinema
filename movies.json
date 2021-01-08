@@ -2,7 +2,7 @@
     "home_genre" : [
                         {
                             "title" : "Korea",
-                            "genre" : "korea"
+                            "genre" : "all"
                         },
                         
                         {
@@ -11,11 +11,11 @@
                         },
                         {
                             "title" : "18+",
-                            "genre" : "D"
+                            "genre" : "18+"
                         },
                         {
-                            "title" : "Thriller",
-                            "genre" : "Thriller"
+                            "title" : "All",
+                            "genre" : "korea"
                         }
         
               ],
